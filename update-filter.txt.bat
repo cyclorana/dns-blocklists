@@ -1,3 +1,3 @@
 @echo off
-curl -fsSL "https://github.com/cyclorana/dns-blocklists/releases/download/filters/filter.txt" -o "%~dp0filter.txt" >nul 2>nul
+curl -fsSL "https://raw.githubusercontent.com/cyclorana/dns-blocklists/refs/heads/main/filter.txt" -o "%~dp0filter.txt" >nul 2>nul
 exit /b

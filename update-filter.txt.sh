@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-curl -fsSL "https://github.com/cyclorana/dns-blocklists/releases/download/filters/filter.txt" -o "$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" >/dev/null 2>&1 && pwd)/filter.txt" >/dev/null 2>&1
+curl -fsSL "https://raw.githubusercontent.com/cyclorana/dns-blocklists/refs/heads/main/filter.txt" -o "$(cd "$(dirname "${BASH_SOURCE[0]:-$0}")" >/dev/null 2>&1 && pwd)/filter.txt" >/dev/null 2>&1
