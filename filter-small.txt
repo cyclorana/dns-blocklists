@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/cyclorana/dns-blocklists/refs/heads/main/filter-small.txt
-# 10-18-2025-22-52-57
+# 10-18-2025-23-48-38
 
 0-02.net
 0.myikas.com
@@ -42430,7 +42430,6 @@ doomdefender.com
 doomedlimpmantle.com
 doomna.com
 doorbanker.com
-doordishow.live
 doormanracket.com
 doormantdoormantderive.com
 doortrade.ru
@@ -151141,7 +151140,6 @@ vgellr.esprit.de
 vgfasfrttxhrc.site
 vgfhycwkvh.com
 vgfj.cn
-vgguavwanxqm.com
 vghd.com
 vghoqhivou.com
 vghuqs.pcaskin.com
