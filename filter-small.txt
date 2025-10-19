@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/cyclorana/dns-blocklists/refs/heads/main/filter-small.txt
-# 10-18-2025-23-48-38
+# 10-19-2025-00-37-21
 
 0-02.net
 0.myikas.com
@@ -13970,7 +13970,6 @@ ams.oraclecloud.com
 amselragman.com
 amsgjybwclvoq.space
 amshroomishan.com
-amstarlyer.com
 amsunsolar.actonservice.com
 amt-k.ru
 amt3.com
@@ -19536,7 +19535,6 @@ att.trk.reka.my
 att.trk.rtrk.app
 att.trk.top5-ratings.com
 attabalkanaka.cyou
-attabalyttrias.top
 attacheatableoverlabor.com
 attachedkneel.com
 attacksdecisioncafeteria.com
@@ -19770,7 +19768,6 @@ aunuu.gorjana.com
 aunwxnuyanjjv.website
 auoehd.liebscher-bracht.com
 auphaustouckur.net
-auphawhu.net
 auphothuns.net
 aupxil.milar.es
 aur.portalapsbeleza.com.br
@@ -20454,7 +20451,6 @@ aywgucxmh.com
 ayyaar.ir
 ayzylwqazaemj.top
 ayzylwqazamkv.top
-ayzylwqryawkr.top
 ayzylwqryazaa.top
 az-neverblock.aznude.workers.dev
 az.nzn.io
@@ -47352,7 +47348,6 @@ etui.fs.ml.com
 etukuqstzpkzz.space
 etvurlcoygadl.site
 etwdpgjsvdqzk.site
-etwitemuffer.top
 etwiterehedge.rest
 etwovr.underarmour.eu
 etwzue.icu
