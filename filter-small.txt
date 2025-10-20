@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/cyclorana/dns-blocklists/refs/heads/main/filter-small.txt
-# 10-19-2025-18-30-01
+# 10-20-2025-05-06-02
 
 0-02.net
 0.myikas.com
@@ -9,7 +9,6 @@
 000.gaysexe.free.fr
 000free.us
 000tristanprod.free.fr
-0014b04291.com
 0019x.com
 002777.xyz
 003store.com
@@ -269,7 +268,6 @@
 10008919.pomelo.fashion
 1000bannerx.free.fr
 1000lashes.com
-1000russianwomen.com
 1002.men
 10079290.fluz.app
 100dollars-seo.com
@@ -13581,7 +13579,6 @@ alpine-vpn.com
 alpineactor.com
 alpixtrack.com
 alpwclk.alphatonicworks.site
-alqjtrpypwxg.com
 alquiler.aldflex.es
 alquiler.carflex.es
 alravxzobvubp.website
@@ -18939,7 +18936,6 @@ asesorcomercial.superateaqui.com
 asesoresequifax.superateaqui.com
 asespeonom.com
 asewlfjqwlflkew.com
-asexcadrillom.com
 asextube.net
 asf4f.us
 asfxdwtscxyr.com
@@ -20043,7 +20039,6 @@ avuibxulygfyx.online
 avusuapzdqcrc.site
 avvbzudpi.com
 avvelwamqkaev.top
-avvelwamqkwjj.top
 avvelwavlvmer.top
 avvelwavlvmwj.top
 avvfqs.nubia.com.tr
@@ -25043,7 +25038,6 @@ bunniaplebby.help
 bunningscapple.com
 bunquaver.com
 bunrakukendyr.life
-bunsjweeetwokof.com
 bunth.net
 buntssejunct.cyou
 bunvnajk.com
@@ -25077,7 +25071,6 @@ burgersalt.com
 burgerscapra.shop
 burghalbuttal.help
 burglarycirculationintense.com
-burgoopayt.rest
 burhelbiffed.click
 burialattentivestrawberry.com
 burialgrief.com
@@ -40336,7 +40329,6 @@ denariibrocked.com
 denayphlox.top
 denbeigemark.com
 dendrito.name
-denemisura.com
 denialjav128.fun
 denialtransportationfair.com
 denknowledc.org
@@ -41106,7 +41098,6 @@ diettrappeddestruction.com
 differentbread.pro
 differentia.ru
 differlookingmanor.com
-differnativus.shop
 differsfunk.com
 difficultfog.com
 difficultmatecomrade.com
@@ -41668,7 +41659,6 @@ distiller.kano.link
 distillery.wistia.com
 distiltag.com
 distinctrobin.com
-distinguishedates.com
 distnalarge.qpon
 distorted-environment.pro
 distorted-hello.pro
@@ -43378,7 +43368,6 @@ duralgomari.com
 durationmedia.net
 durationwhoopbegun.com
 durbanalbus.digital
-durbarpandar.rest
 durchsichtig.xyz
 duregqgfvravp.space
 duretnitriry.cyou
@@ -48766,7 +48755,6 @@ failedfrustratingthesis.com
 failingforce.pro
 failingrole.pro
 failuremaistry.com
-fainsflavory.shop
 faint-recognition.pro
 faintestlogic.com
 faintgas.com
@@ -54386,7 +54374,6 @@ gmufag.marieclaire.ru
 gmufag.nn.ru
 gmufag.starhit.ru
 gmufag.woman.ru
-gmugwnxn.com
 gmurs.jewells.com
 gmusgr.millesima.ch
 gmwqpgq.top
@@ -69363,7 +69350,6 @@ jyozavobzrojl.top
 jyozavobzrolw.top
 jypndtjmdqcnj.online
 jyqekzewvyjzj.top
-jyqekzzlmrloz.top
 jyqekzzlmymab.top
 jyqekzzlmyvql.top
 jyqisflqljeav.com
@@ -69540,7 +69526,6 @@ kakvk.poponveneers.com
 kaladyaudiology.ericksonbuilt.com
 kalamsbalsamo.life
 kaleidoscopefingernaildigging.com
-kaleidoscopic-mood.pro
 kalingacurvant.com
 kalitereklam.com
 kallerupstone.viessmann.dk
@@ -72902,7 +72887,6 @@ ligcspstbrvgf.online
 liggewaeful.com
 ligheechoagool.com
 lighoudsaltie.net
-light-sweet.pro
 lightenafterthought.com
 lightenslush.com
 lighterthinnerstronger.fiber-line.com
@@ -87221,7 +87205,6 @@ montnotimex.top
 montonshaiva.qpon
 montpalatin.handicap.fr
 montpdp.top
-montreexilic.cfd
 montwam.top
 monu.delivery
 monumentsmaterialeasel.com
@@ -92750,7 +92733,6 @@ ofljjrxtflpva.space
 ofluyplnfaqhi.site
 ofmdohtxiotxm.site
 ofnatlevi-il.com
-ofninjasktor.com
 ofotender.rest
 ofovp.mypeakchallenge.com
 ofpeg.trywellbe.de
@@ -104289,7 +104271,6 @@ rbweljjbvvwra.top
 rbwrhihfbfdee.net
 rbxvrauhtmh.xyz
 rbycczculjquv.site
-rbydwsnwitn.com
 rbze.cn
 rbzqarqzoveok.top
 rbzqarqzoveqy.top
@@ -139744,7 +139725,6 @@ tiktok.tray.com.br
 tiktokcdn1.xyz
 tiktokcy1.com
 tiktokpangle.us
-tikz.cn
 tilaghwpas.com
 tilanalytics.timesinternet.in
 tilhyw.lampen24.nl
@@ -151393,7 +151373,6 @@ via.ssl.holdmybeerconsulting.com
 viaanswerwillow.com
 viabeldumchan.com
 viablehornsborn.com
-viaclefachan.com
 viadata.store
 viads.com
 viads.net
@@ -151414,7 +151393,6 @@ viaticatulsi.help
 viavd.laticoleathers.com
 viavideo.digital
 viaviet03.mobie.in
-viavullabya.com
 vib-bank.com
 vib-cardnew.shop
 vib-care.com
@@ -155563,7 +155541,6 @@ wisnpkrlwygch.com
 wisokykulas.bid
 wispishspails.help
 wispycity.com
-wissedardan.help
 wissekeygroup.com
 wissen.sage.de
 wisteinsight.com
@@ -161800,8 +161777,6 @@ zsthu.thefryeandco.com
 zsy10161yok.com
 zsy10170yok.com
 zsy10171yok.com
-zsy10180yok.com
-zsy10190yok.com
 zsy10191yok.com
 zszhfffyd.ru
 zt.me.zing.vn
