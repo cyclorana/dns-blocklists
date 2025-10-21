@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/cyclorana/dns-blocklists/refs/heads/main/filter-small.txt
-# 10-21-2025-06-44-56
+# 10-21-2025-16-06-18
 
 0-02.net
 0.myikas.com
@@ -1460,7 +1460,6 @@
 4d33a4adbc.com
 4d3f87f705.com
 4dc005d17a.com
-4dccfcf337.com
 4dex.io
 4dex.tech
 4dsbanner.net
@@ -2494,7 +2493,6 @@
 999aae0fa7.com
 999bb222ww.com
 999lotte.com
-999webdesign.com
 999xx333kk.com
 999xx999kk.com
 99count.com
@@ -8176,7 +8174,6 @@ acuerdobedight.life
 acufjnlheepma.website
 acuityads.com
 acuityplatform.com
-acukamyavdulyc.com
 aculeipreloan.shop
 acumocceemuqj.space
 acuteleukemie.info
@@ -9970,7 +9967,6 @@ adpublisher.s3.amazonaws.com
 adpulse.ir
 adpush.goforandroid.com
 adpushup.com
-adq.nextag.com
 adquake.com
 adquality.ch
 adquery.io
@@ -10204,7 +10200,6 @@ ads.dabi.ir
 ads.dada.it
 ads.dandelionchocolate.jp
 ads.datateam.co.uk
-ads.datingyes.com
 ads.deltha.hu
 ads.dennisnet.co.uk
 ads.desmoinesregister.com
@@ -13303,7 +13298,6 @@ algicwaiwai.rest
 algidforkers.cfd
 algiersreests.com
 algjbzwaljlmk.top
-algo.creepingbrings.com
 algodon.net
 algopine.com
 algoresdubby.click
@@ -13359,7 +13353,6 @@ alightattendancemerger.com
 alightmiraculous.com
 alightrecentliterature.com
 alignclamstram.com
-alignkemb.rest
 alignmentflattery.com
 alikeaddition.com
 alikepublicity.com
@@ -20943,7 +20936,6 @@ bagpipemonogamypercent.com
 bagqywcfqbocf.website
 bagsgarnish.com
 bagsimportancepropose.com
-bagsonsale.online
 bagsurprise.com
 baguettefactornervous.com
 baguioattalea.com
@@ -22208,7 +22200,6 @@ bertsysxmykqm.online
 berush.com
 bes-mtj.baidu.com
 besaieltense.com
-besandileer.com
 besandileom.com
 besc.baidustatic.com
 beseechpill.com
@@ -25322,7 +25313,6 @@ bvtznvqieofte.website
 bvubje.leboncoin.fr
 bvujr.godiva.com
 bvulkj.orbitbabyusa.com
-bvwekrwmwoyhbd.com
 bvwmogqvhnsdi.site
 bvxvwb.miniwebshop.hu
 bvyhpxikzylmn.space
@@ -25902,7 +25892,6 @@ cagewervel.top
 cagiestvealed.cfd
 cagkpu.suitdirect.co.uk
 cagothie.net
-cagygauges.com
 caheb.rails.com
 cahizargulus.world
 cahnitefulvene.cfd
@@ -31802,7 +31791,6 @@ corseswarty.qpon
 cortellisconnections.thomsonreuters.com
 corveshangee.help
 corvoidhas.com
-coryljanty.cam
 corymbtidal.cfd
 corymburubu.cfd
 cos1999.top
@@ -41552,7 +41540,6 @@ directtrck.com
 direeyesightstray.com
 direfuldesk.com
 diregun.digital
-dirgesimious.com
 dirgyjimson.qpon
 dirlink.net
 dirtharvestnickel.com
@@ -42618,7 +42605,6 @@ dotserver.douyucdn.cn
 dotsrv.com
 dottardodylic.shop
 dottilyjerky.com
-dottorehauteur.shop
 dottypeguidance.com
 dotvox.actonservice.com
 dotyruntchan.com
@@ -51157,7 +51143,6 @@ foundersortied.click
 foundinggulfsaturate.com
 foundry42.com
 foundtr.com
-founteamative.help
 foupog90.xyz
 fourier.alibaba.com
 fourier.aliexpress.com
@@ -53899,7 +53884,6 @@ giaythethaonuhcm.com
 gibbalslucerne.rest
 gibbon.711.st
 gibbosebocasin.digital
-gibedzunian.click
 gibletabama.com
 giborboxr-il.com
 gibssoilage.com
@@ -64717,7 +64701,6 @@ inbdut.marinbrasil.com.br
 inbelvbpn.com
 inbodydebtor.com
 inboldoreer.com
-inbonslyon.com
 inborndisplayed.com
 inbound-analytics.pixlee.co
 inbound-analytics.pixlee.com
@@ -69462,7 +69445,6 @@ jx3.freepornobook.com
 jxad.jx163.com
 jxbezc.hamburg-tourismus.de
 jxbpanpbplamf.top
-jxbqurpezx.com
 jxcuywnprilwi.space
 jxdlfyofhwwsws.xyz
 jxdptu.jouete-online.com
@@ -74508,7 +74490,6 @@ llteig.framesdirect.com
 lltmch.zurifurniture.com
 lltnfhzysxuin.website
 lltrck.com
-lluewwiw.com
 llutfo.get-nourished.com
 lluwrenwsfh.xyz
 llvlzvroqokmj.top
@@ -74523,7 +74504,6 @@ llwoyl.mirraw.com
 llxbcprjfuc.com
 llxqcrbjflbop.online
 llyighaboveth.com
-llykjmzkqvbmk.top
 llykjmzkqvjwq.top
 llykjmzkqvvqy.top
 llykjmzqkzyqy.top
@@ -92184,7 +92164,6 @@ nycteascans.digital
 nyctrl32.com
 nycvqozkkmzti.com
 nycwfz.kigili.com
-nyecfvkbohlmhj.com
 nyetae.eyeclinic-tokyo.jp
 nyetm2mkch.com
 nyfa-images.reviveservers.com
@@ -95045,7 +95024,6 @@ ou.shutterfly.com
 ouaohliu.xyz
 oubdjkkujr.com
 oubqwkmhrcpat.fun
-oubsmfnfusnpgy.com
 ouccoc.icu
 oucetchoamsooh.com
 oucgo.brylanehome.com
@@ -97986,7 +97964,6 @@ phionline.actonservice.com
 phiphounga.net
 phirussacmush.net
 phithiolic.shop
-phithoophuly.net
 phixls.uaubox.com.br
 phkavwzvgjjtw.online
 phkhcp.luminaire.fr
@@ -101133,7 +101110,6 @@ ps.pmu.fr
 ps1.reallifecam.to
 ps2.camcaps.to
 psaiboargamti.com
-psaiceex.net
 psailaukro.net
 psairees.net
 psaiselraw.net
@@ -103555,7 +103531,6 @@ question.hot-step-mom.com
 question.snapiio.com
 questionable-heat.pro
 questionable-shoulder.pro
-questionfly.com
 questioningcomplimentarypotato.com
 questioningexperimental.com
 questioningtosscontradiction.com
@@ -103883,7 +103858,6 @@ qyqvxtufskevk.site
 qyrkicaqiytxdml.com
 qyromjlyvzmar.top
 qyromjlyvzoaw.top
-qyromjlyvzooo.top
 qyromjlyvzwoj.top
 qyronj.trademax.dk
 qysknb.fukuishimbun.co.jp
@@ -104425,7 +104399,6 @@ raven.konquadrat.de
 raven.omamao.ch
 ravenouspetition.com
 ravenperspective.com
-ravesudd.shop
 ravinsnodly.shop
 ravioliaft.world
 ravizo.online
@@ -104513,7 +104486,6 @@ rbqcg6g.de
 rbqfprbbtwgej.online
 rbqlbokvoraev.top
 rbqlbokvoroej.top
-rbqlbokvoroyw.top
 rbqlbolklreqy.top
 rbqv91egxy.com
 rbrightscarletcloaksan.org
@@ -124239,7 +124211,6 @@ sportradarserving.com
 sports-live-streams.club
 sports-streams-online.best
 sports-streams-online.com
-sports-streams-online.xyz
 sportsariseencyclopaedia.com
 sportsnearby.com
 sportstoday.pro
@@ -139414,7 +139385,6 @@ thaqne.com
 thaqyl.mediamarkt.nl
 thassos.clicknplay.to
 thatmonkeybites3.com
-thatvalhall.digital
 thaudray.com
 thauftoaceensy.net
 thaufudrehis.net
@@ -149050,7 +149020,6 @@ unfamllliardates.com
 unfancyvergers.cfd
 unfearowor.com
 unfinished-apple.com
-unfitstrain.pro
 unflatsmopple.life
 unfortunate-can.com
 unfortunatechampionship.com
@@ -149099,7 +149068,6 @@ unimportant-pleasure.com
 uninterestedquarter.com
 union-mlog.bigda.com
 union-wifi.com
-union.360.cn
 union.baidu.cn
 union.baidu.com
 union.china.com.cn
@@ -160929,7 +160897,6 @@ yur09171og.com
 yur09180og.com
 yur09181og.com
 yurakcastles.world
-yurekbkmhoadl.net
 yurivideo.com
 yurobl.rw-co.com
 yuruknalyticafr.com
@@ -162407,7 +162374,6 @@ zxxvns.f64.ro
 zxzbjqoyojpza.site
 zyavhhgzkdjfu.space
 zybkrv.icu
-zyblzreyykqzq.top
 zyblzreyykvre.top
 zyblzreyykyjw.top
 zybnqcnikmpqu.life
