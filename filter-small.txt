@@ -1,5 +1,5 @@
 # https://raw.githubusercontent.com/cyclorana/dns-blocklists/refs/heads/main/filter-small.txt
-# 10-24-2025-10-50-37
+# 10-24-2025-11-06-19
 
 0-02.net
 0.myikas.com
